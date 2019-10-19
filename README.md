@@ -1,15 +1,10 @@
 # MICCAI2019-BraTS19
 
 ![](https://github.com/Cute77/MICCAI2019-BraTS19/raw/master/presentation/Internship_Summary_of_ZiqiLin_00.png)
-
 ![](https://github.com/Cute77/MICCAI2019-BraTS19/raw/master/presentation/Internship_Summary_of_ZiqiLin_01.png)
-
 ![](https://github.com/Cute77/MICCAI2019-BraTS19/raw/master/presentation/Internship_Summary_of_ZiqiLin_02.png)
-
 ![](https://github.com/Cute77/MICCAI2019-BraTS19/raw/master/presentation/Internship_Summary_of_ZiqiLin_03.png)  
-
 ![](https://github.com/Cute77/MICCAI2019-BraTS19/raw/master/presentation/Internship_Summary_of_ZiqiLin_04.png)  
-
 ![](https://github.com/Cute77/MICCAI2019-BraTS19/raw/master/presentation/Internship_Summary_of_ZiqiLin_05.png)  
 
 ![](https://github.com/Cute77/MICCAI2019-BraTS19/raw/master/presentation/Internship_Summary_of_ZiqiLin_06.png)  
