@@ -1,7 +1,7 @@
 # MICCAI2019-BraTS19: Brain Tumor Segmentation with a Deep Adversarial Network Model and CRF
  Here is a presentation of our project for a challenge in 2019MICCAI: Multimodal Brain Tumor Segmentation Challenge<br>
  
- Sorry for not sharing my codes without the permission from my teammate in this project who also made significant contribution to it.<br>
+ Sorry for not sharing my codes without the permission from my teammate who also made significant contribution to this project.<br>
  
  Please feel free to contact me if you have any questions.
 
